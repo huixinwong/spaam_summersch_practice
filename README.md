@@ -1,1 +1,5 @@
-# spaam_summersch_practiceJust an example repo
+# spaam_summersch_practice
+
+Just an example repo
+
+My name is Hui Xin
