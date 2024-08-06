@@ -1,1 +1,1 @@
-# spaam_summersch_practice
+# spaam_summersch_practiceJust an example repo
